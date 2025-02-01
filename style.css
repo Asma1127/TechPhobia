@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+     background-image: url(./WhatsApp\ Image\ 2025-02-01\ at\ 11.01.00\ AM.jpeg);
+}
+.edu{
+    display: flex;
+    gap: 700px;
+    padding-left: 50px;
+}
+ h1{
+    color: rgb(128, 52, 8);
+}
+.edu .bar ol{
+    display: flex;
+    color: black;
+    list-style-type: none;
+    gap: 10px;
+    margin-top: 15px;
+    flex-wrap: wrap;
+}
+.edu .bar ol li{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    justify-content: right;
+    margin-right: 30px;
+}
+.imgs img{
+    object-fit: cover;
+    border-radius: 1000px;
+    
+}
+.img2 img{
+    object-fit: cover;
+    border-radius: 1000px;
+    margin-bottom: 50px;
+}
+.img3 img{
+    object-fit: cover;
+    border-radius: 1000px;
+
+}
+#log{
+    background-color: rgb(205, 163, 90);
+}
+.but{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 50px;
+    float: right;
+
+}
+h2{
+    text-align: center;
+    color: rgb(85, 37, 9);
+}
+p{
+    text-align: center;
+    color: rgb(100, 43, 11);
+}

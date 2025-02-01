@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(231, 204, 196);
+}
+.info2 {
+    display: flex;
+    gap: 20px;
+    text-align: justify;
+}
+.info3{
+    display: flex;
+    gap: 20px;
+    text-align: justify; 
+}
+.info4{
+    display: flex;
+    gap: 20px;
+    text-align: justify; 
+}
+h1{
+    text-align: center;
+    color: brown;
+    padding-top: 30px;
+}

@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(199, 189, 148);
+}
+h1{
+    text-align: center;
+}
+.smerge{
+    display: flex;
+    gap: 20px;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}

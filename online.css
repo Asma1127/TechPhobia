@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.courses{
+    background: #ab7272;
+    border-radius: 10px;
+    overflow: hidden;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+.courses img {
+    width :400px;
+    height :200px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+.courses h3{
+    font-size: 16 px;
+    text-align: center;
+    padding-top: 50px;
+    margin: 10px 0 5px;
+}
+.courses p{
+    font-size: 14px;
+    padding-top: 50px;
+    color: #ccc;
+}
+.c1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    padding: 20px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
